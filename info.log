@@ -1,0 +1,384 @@
+[2022-12-04T14:03:19.448] [INFO] default - app is running
+[2022-12-04T14:03:24.670] [INFO] default - DB Connected
+[2022-12-04T14:03:25.462] [INFO] default - DB Connected
+[2022-12-04T14:03:25.553] [INFO] default - userData [
+  {
+    _id: new ObjectId("636847b19ff94fa48a9e4a79"),
+    name: 'Jorge',
+    email: 'jorge@gmail.com',
+    username: 'jorge21',
+    age: 23,
+    phone: 987654321,
+    address: 'calle luis 122',
+    avatar: 'Hola',
+    password: '9877676'
+  },
+  {
+    _id: new ObjectId("637c547cd0749ec906be02ab"),
+    email: 'ahbb21@hotmail.com',
+    username: 'Alan',
+    age: 23,
+    phone: 987654321,
+    address: 'Calle Los Mirlos 181',
+    avatar: 'public\\uploads\\users\\AWZU7262.JPG',
+    password: '$2a$08$QYDUtik4H4.Q4rtHU2Bol.sdfY4HLCrewvm8wFchBZNgVJpW8T1B6',
+    __v: 0
+  }
+]
+[2022-12-04T14:03:25.558] [INFO] default - current user undefined
+[2022-12-04T14:03:25.559] [INFO] default - current user undefined
+[2022-12-04T14:06:15.803] [INFO] default - app is running
+[2022-12-04T14:06:37.993] [INFO] default - app is running
+[2022-12-09T15:14:23.750] [INFO] default - app is running
+[2022-12-09T15:19:26.216] [INFO] default - DB Connected
+[2022-12-09T15:19:27.020] [INFO] default - DB Connected
+[2022-12-09T15:19:27.112] [INFO] default - userData [
+  {
+    _id: new ObjectId("636847b19ff94fa48a9e4a79"),
+    name: 'Jorge',
+    email: 'jorge@gmail.com',
+    username: 'jorge21',
+    age: 23,
+    phone: 987654321,
+    address: 'calle luis 122',
+    avatar: 'Hola',
+    password: '9877676'
+  },
+  {
+    _id: new ObjectId("637c547cd0749ec906be02ab"),
+    email: 'ahbb21@hotmail.com',
+    username: 'Alan',
+    age: 23,
+    phone: 987654321,
+    address: 'Calle Los Mirlos 181',
+    avatar: 'public\\uploads\\users\\AWZU7262.JPG',
+    password: '$2a$08$QYDUtik4H4.Q4rtHU2Bol.sdfY4HLCrewvm8wFchBZNgVJpW8T1B6',
+    __v: 0
+  }
+]
+[2022-12-09T15:19:27.117] [INFO] default - current user undefined
+[2022-12-09T15:19:27.118] [INFO] default - current user undefined
+[2022-12-09T15:19:32.018] [INFO] default - DB Connected
+[2022-12-09T15:19:32.113] [INFO] default - DB Connected
+[2022-12-09T15:19:32.205] [INFO] default - userData [
+  {
+    _id: new ObjectId("636847b19ff94fa48a9e4a79"),
+    name: 'Jorge',
+    email: 'jorge@gmail.com',
+    username: 'jorge21',
+    age: 23,
+    phone: 987654321,
+    address: 'calle luis 122',
+    avatar: 'Hola',
+    password: '9877676'
+  },
+  {
+    _id: new ObjectId("637c547cd0749ec906be02ab"),
+    email: 'ahbb21@hotmail.com',
+    username: 'Alan',
+    age: 23,
+    phone: 987654321,
+    address: 'Calle Los Mirlos 181',
+    avatar: 'public\\uploads\\users\\AWZU7262.JPG',
+    password: '$2a$08$QYDUtik4H4.Q4rtHU2Bol.sdfY4HLCrewvm8wFchBZNgVJpW8T1B6',
+    __v: 0
+  }
+]
+[2022-12-09T15:19:32.208] [INFO] default - current user undefined
+[2022-12-09T15:19:32.209] [INFO] default - current user undefined
+[2022-12-09T15:19:34.221] [INFO] default - DB Connected
+[2022-12-09T15:19:34.312] [INFO] default - product controller []
+[2022-12-09T15:19:34.313] [INFO] default - DB Connected
+[2022-12-09T15:19:36.451] [INFO] default - DB Connected
+[2022-12-09T15:19:36.541] [INFO] default - DB Connected
+[2022-12-09T15:19:36.630] [INFO] default - userData [
+  {
+    _id: new ObjectId("636847b19ff94fa48a9e4a79"),
+    name: 'Jorge',
+    email: 'jorge@gmail.com',
+    username: 'jorge21',
+    age: 23,
+    phone: 987654321,
+    address: 'calle luis 122',
+    avatar: 'Hola',
+    password: '9877676'
+  },
+  {
+    _id: new ObjectId("637c547cd0749ec906be02ab"),
+    email: 'ahbb21@hotmail.com',
+    username: 'Alan',
+    age: 23,
+    phone: 987654321,
+    address: 'Calle Los Mirlos 181',
+    avatar: 'public\\uploads\\users\\AWZU7262.JPG',
+    password: '$2a$08$QYDUtik4H4.Q4rtHU2Bol.sdfY4HLCrewvm8wFchBZNgVJpW8T1B6',
+    __v: 0
+  }
+]
+[2022-12-09T15:19:36.634] [INFO] default - current user undefined
+[2022-12-09T15:19:36.634] [INFO] default - current user undefined
+[2022-12-09T15:28:39.562] [INFO] default - app is running
+[2022-12-09T15:28:44.652] [INFO] default - DB Connected
+[2022-12-09T15:28:45.525] [INFO] default - DB Connected
+[2022-12-09T16:36:04.619] [INFO] default - app is running
+[2022-12-09T17:17:58.955] [INFO] default - app is running
+[2022-12-09T17:18:46.023] [INFO] default - app is running
+[2022-12-09T17:25:37.216] [INFO] default - app is running
+[2022-12-09T17:27:31.200] [INFO] default - app is running
+[2022-12-09T17:59:19.344] [INFO] default - app is running
+[2022-12-09T17:59:24.340] [INFO] default - app is running
+[2022-12-09T18:00:34.035] [INFO] default - app is running
+[2022-12-09T18:01:07.089] [INFO] default - app is running
+[2022-12-09T18:01:35.237] [INFO] default - app is running
+[2022-12-09T18:02:39.171] [INFO] default - app is running
+[2022-12-09T18:02:54.642] [INFO] default - app is running
+[2022-12-09T18:03:17.762] [INFO] default - app is running
+[2022-12-09T18:03:37.230] [INFO] default - app is running
+[2022-12-09T18:09:36.394] [INFO] default - app is running
+[2022-12-09T18:09:48.195] [INFO] default - app is running
+[2022-12-09T18:27:55.175] [INFO] default - app is running
+[2022-12-09T18:33:57.819] [INFO] default - app is running
+[2022-12-11T10:34:59.055] [INFO] default - app is running
+[2022-12-11T10:35:57.838] [INFO] default - app is running
+[2022-12-11T10:37:36.379] [INFO] default - app is running
+[2022-12-11T10:53:22.312] [INFO] default - Connecting mongo DB ...
+[2022-12-11T10:53:22.318] [INFO] default - undefined
+[2022-12-11T10:53:22.329] [INFO] default - app is running
+[2022-12-11T10:53:23.768] [INFO] default - DB Connected
+[2022-12-11T10:53:30.020] [INFO] default - []
+[2022-12-11T10:53:34.678] [INFO] default - []
+[2022-12-11T10:55:23.903] [INFO] default - Connecting mongo DB ...
+[2022-12-11T10:55:23.910] [INFO] default - undefined
+[2022-12-11T10:55:23.920] [INFO] default - app is running
+[2022-12-11T10:55:25.342] [INFO] default - DB Connected
+[2022-12-11T10:55:27.487] [INFO] default - []
+[2022-12-11T10:57:55.371] [INFO] default - Connecting mongo DB ...
+[2022-12-11T10:57:55.380] [INFO] default - undefined
+[2022-12-11T10:57:55.387] [INFO] default - app is running
+[2022-12-11T10:57:56.909] [INFO] default - DB Connected
+[2022-12-11T10:57:58.866] [INFO] default - []
+[2022-12-11T11:10:44.004] [INFO] default - Connecting mongo DB ...
+[2022-12-11T11:10:44.011] [INFO] default - undefined
+[2022-12-11T11:10:44.022] [INFO] default - app is running
+[2022-12-11T11:10:45.426] [INFO] default - DB Connected
+[2022-12-11T11:10:48.612] [INFO] default - []
+[2022-12-11T11:11:01.557] [INFO] default - Connecting mongo DB ...
+[2022-12-11T11:11:01.564] [INFO] default - undefined
+[2022-12-11T11:11:01.573] [INFO] default - app is running
+[2022-12-11T11:11:02.894] [INFO] default - DB Connected
+[2022-12-11T11:15:42.139] [INFO] default - Connecting mongo DB ...
+[2022-12-11T11:15:42.147] [INFO] default - undefined
+[2022-12-11T11:15:42.155] [INFO] default - app is running
+[2022-12-11T11:15:43.606] [INFO] default - DB Connected
+[2022-12-11T11:15:45.565] [INFO] default - []
+[2022-12-11T11:20:38.743] [INFO] default - Connecting mongo DB ...
+[2022-12-11T11:20:38.753] [INFO] default - undefined
+[2022-12-11T11:20:38.760] [INFO] default - app is running
+[2022-12-11T11:20:40.186] [INFO] default - DB Connected
+[2022-12-11T11:20:42.717] [INFO] default - []
+[2022-12-11T11:21:12.134] [INFO] default - Connecting mongo DB ...
+[2022-12-11T11:21:12.141] [INFO] default - undefined
+[2022-12-11T11:21:12.151] [INFO] default - app is running
+[2022-12-11T11:21:13.447] [INFO] default - DB Connected
+[2022-12-11T11:30:30.627] [INFO] default - Connecting mongo DB ...
+[2022-12-11T11:30:30.633] [INFO] default - undefined
+[2022-12-11T11:30:30.642] [INFO] default - app is running
+[2022-12-11T11:30:32.133] [INFO] default - DB Connected
+[2022-12-11T11:30:34.205] [INFO] default - []
+[2022-12-11T11:30:41.602] [INFO] default - Connecting mongo DB ...
+[2022-12-11T11:30:41.608] [INFO] default - undefined
+[2022-12-11T11:30:41.615] [INFO] default - app is running
+[2022-12-11T11:30:42.928] [INFO] default - DB Connected
+[2022-12-11T11:30:43.788] [INFO] default - []
+[2022-12-11T11:34:01.677] [INFO] default - Connecting mongo DB ...
+[2022-12-11T11:34:01.684] [INFO] default - undefined
+[2022-12-11T11:34:01.690] [INFO] default - app is running
+[2022-12-11T11:34:03.106] [INFO] default - DB Connected
+[2022-12-11T11:35:02.316] [INFO] default - Connecting mongo DB ...
+[2022-12-11T11:35:02.324] [INFO] default - undefined
+[2022-12-11T11:35:02.332] [INFO] default - app is running
+[2022-12-11T11:35:03.889] [INFO] default - DB Connected
+[2022-12-11T11:35:19.988] [INFO] default - []
+[2022-12-11T11:37:40.979] [INFO] default - Connecting mongo DB ...
+[2022-12-11T11:37:40.988] [INFO] default - undefined
+[2022-12-11T11:37:40.996] [INFO] default - app is running
+[2022-12-11T11:37:42.518] [INFO] default - DB Connected
+[2022-12-11T11:37:42.717] [INFO] default - []
+[2022-12-11T11:37:58.670] [INFO] default - Connecting mongo DB ...
+[2022-12-11T11:37:58.676] [INFO] default - undefined
+[2022-12-11T11:37:58.683] [INFO] default - app is running
+[2022-12-11T11:37:59.987] [INFO] default - DB Connected
+[2022-12-11T11:41:15.280] [INFO] default - Connecting mongo DB ...
+[2022-12-11T11:41:15.288] [INFO] default - undefined
+[2022-12-11T11:41:15.295] [INFO] default - app is running
+[2022-12-11T11:41:16.719] [INFO] default - DB Connected
+[2022-12-11T11:43:47.967] [INFO] default - Connecting mongo DB ...
+[2022-12-11T11:43:47.974] [INFO] default - undefined
+[2022-12-11T11:43:47.979] [INFO] default - app is running
+[2022-12-11T11:43:49.442] [INFO] default - DB Connected
+[2022-12-11T11:43:50.303] [INFO] default - []
+[2022-12-11T11:44:16.777] [INFO] default - Connecting mongo DB ...
+[2022-12-11T11:44:16.786] [INFO] default - undefined
+[2022-12-11T11:44:16.792] [INFO] default - app is running
+[2022-12-11T11:44:18.076] [INFO] default - DB Connected
+[2022-12-11T11:44:18.389] [INFO] default - [
+  {
+    _id: new ObjectId("637edc0cf3a5651747c69d17"),
+    name: 'Botas',
+    description: 'Botas de cuero con aplicativos ',
+    price: 150,
+    stock: 13,
+    thumbnail: 'public\\uploads\\products\\AWZU7262.JPG',
+    createdAt: 2022-11-24T02:50:52.732Z,
+    updatedAt: 2022-11-24T02:50:52.732Z,
+    __v: 0
+  },
+  {
+    _id: new ObjectId("637edc401d4f07222c6d0ab8"),
+    name: 'Botas',
+    description: 'Botas de cuero con aplicativos ',
+    price: 150,
+    stock: 13,
+    thumbnail: 'public\\uploads\\products\\AWZU7262.JPG',
+    createdAt: 2022-11-24T02:51:44.088Z,
+    updatedAt: 2022-11-24T02:51:44.088Z,
+    __v: 0
+  }
+]
+[2022-12-11T12:19:32.009] [INFO] default - Connecting mongo DB ...
+[2022-12-11T12:19:32.016] [INFO] default - undefined
+[2022-12-11T12:19:32.024] [INFO] default - app is running
+[2022-12-11T12:19:33.549] [INFO] default - DB Connected
+[2022-12-11T12:30:58.670] [INFO] default - Connecting mongo DB ...
+[2022-12-11T12:30:58.673] [INFO] default - undefined
+[2022-12-11T12:30:58.678] [INFO] default - app is running
+[2022-12-11T12:33:06.319] [INFO] default - Connecting mongo DB ...
+[2022-12-11T12:33:06.324] [INFO] default - undefined
+[2022-12-11T12:33:06.335] [INFO] default - app is running
+[2022-12-11T12:53:33.434] [INFO] default - Connecting mongo DB ...
+[2022-12-11T12:53:33.439] [INFO] default - undefined
+[2022-12-11T12:53:33.451] [INFO] default - app is running
+[2022-12-11T12:54:08.036] [INFO] default - Connecting mongo DB ...
+[2022-12-11T12:54:08.039] [INFO] default - undefined
+[2022-12-11T12:54:08.045] [INFO] default - app is running
+[2022-12-11T12:54:14.906] [INFO] default - Connecting mongo DB ...
+[2022-12-11T12:54:14.910] [INFO] default - undefined
+[2022-12-11T12:54:14.916] [INFO] default - app is running
+[2022-12-11T13:07:50.304] [INFO] default - Connecting mongo DB ...
+[2022-12-11T13:07:50.310] [INFO] default - SingletonDBConnectClass { connect: [Function (anonymous)] }
+[2022-12-11T13:07:50.312] [INFO] default - undefined
+[2022-12-11T13:07:50.317] [INFO] default - app is running
+[2022-12-11T13:08:56.568] [INFO] default - Connecting mongo DB ...
+[2022-12-11T13:08:56.572] [INFO] default - SingletonDBConnectClass { connect: [AsyncFunction (anonymous)] }
+[2022-12-11T13:08:56.573] [INFO] default - undefined
+[2022-12-11T13:08:56.580] [INFO] default - app is running
+[2022-12-11T13:09:53.723] [INFO] default - Connecting mongo DB ...
+[2022-12-11T13:09:53.727] [INFO] default - SingletonDBConnectClass { connect: [Function (anonymous)] }
+[2022-12-11T13:09:53.728] [INFO] default - undefined
+[2022-12-11T13:09:53.738] [INFO] default - app is running
+[2022-12-11T13:35:51.072] [INFO] default - Connecting mongo DB ...
+[2022-12-11T13:35:51.076] [INFO] default - SingletonDBConnectClass { connect: [Function (anonymous)] }
+[2022-12-11T13:35:51.076] [INFO] default - undefined
+[2022-12-11T13:35:51.083] [INFO] default - app is running
+[2022-12-11T13:36:43.340] [INFO] default - Connecting mongo DB ...
+[2022-12-11T13:36:43.344] [INFO] default - SingletonDBConnectClass { connect: [Function (anonymous)] }
+[2022-12-11T13:36:43.347] [INFO] default - undefined
+[2022-12-11T13:36:43.353] [INFO] default - app is running
+[2022-12-11T13:38:14.882] [INFO] default - Connecting mongo DB ...
+[2022-12-11T13:38:14.886] [INFO] default - SingletonDBConnectClass { connect: [Function (anonymous)] }
+[2022-12-11T13:38:14.886] [INFO] default - undefined
+[2022-12-11T13:38:14.892] [INFO] default - app is running
+[2022-12-11T13:38:42.717] [INFO] default - Connecting mongo DB ...
+[2022-12-11T13:38:42.721] [INFO] default - SingletonDBConnectClass { connect: [Function (anonymous)] }
+[2022-12-11T13:38:42.721] [INFO] default - undefined
+[2022-12-11T13:38:42.728] [INFO] default - app is running
+[2022-12-11T13:59:35.756] [INFO] default - Connecting mongo DB ...
+[2022-12-11T13:59:35.762] [INFO] default - undefined
+[2022-12-11T13:59:35.763] [INFO] default - undefined
+[2022-12-11T13:59:35.768] [INFO] default - app is running
+[2022-12-11T13:59:37.319] [INFO] default - DB Connected
+[2022-12-11T13:59:42.354] [INFO] default - [
+  {
+    _id: new ObjectId("637edc0cf3a5651747c69d17"),
+    name: 'Botas',
+    description: 'Botas de cuero con aplicativos ',
+    price: 150,
+    stock: 13,
+    thumbnail: 'public\\uploads\\products\\AWZU7262.JPG',
+    createdAt: 2022-11-24T02:50:52.732Z,
+    updatedAt: 2022-11-24T02:50:52.732Z,
+    __v: 0
+  },
+  {
+    _id: new ObjectId("637edc401d4f07222c6d0ab8"),
+    name: 'Botas',
+    description: 'Botas de cuero con aplicativos ',
+    price: 150,
+    stock: 13,
+    thumbnail: 'public\\uploads\\products\\AWZU7262.JPG',
+    createdAt: 2022-11-24T02:51:44.088Z,
+    updatedAt: 2022-11-24T02:51:44.088Z,
+    __v: 0
+  }
+]
+[2022-12-11T13:59:44.682] [INFO] default - [
+  {
+    _id: new ObjectId("637edc0cf3a5651747c69d17"),
+    name: 'Botas',
+    description: 'Botas de cuero con aplicativos ',
+    price: 150,
+    stock: 13,
+    thumbnail: 'public\\uploads\\products\\AWZU7262.JPG',
+    createdAt: 2022-11-24T02:50:52.732Z,
+    updatedAt: 2022-11-24T02:50:52.732Z,
+    __v: 0
+  },
+  {
+    _id: new ObjectId("637edc401d4f07222c6d0ab8"),
+    name: 'Botas',
+    description: 'Botas de cuero con aplicativos ',
+    price: 150,
+    stock: 13,
+    thumbnail: 'public\\uploads\\products\\AWZU7262.JPG',
+    createdAt: 2022-11-24T02:51:44.088Z,
+    updatedAt: 2022-11-24T02:51:44.088Z,
+    __v: 0
+  }
+]
+[2022-12-11T14:19:48.590] [INFO] default - Connecting mongo DB ...
+[2022-12-11T14:19:48.632] [INFO] default - q es esto:  undefined
+[2022-12-11T14:19:48.634] [INFO] default - undefined
+[2022-12-11T14:19:48.642] [INFO] default - app is running
+[2022-12-11T14:19:50.136] [INFO] default - DB Connected
+[2022-12-11T14:19:50.433] [INFO] default - [
+  {
+    _id: new ObjectId("637edc0cf3a5651747c69d17"),
+    name: 'Botas',
+    description: 'Botas de cuero con aplicativos ',
+    price: 150,
+    stock: 13,
+    thumbnail: 'public\\uploads\\products\\AWZU7262.JPG',
+    createdAt: 2022-11-24T02:50:52.732Z,
+    updatedAt: 2022-11-24T02:50:52.732Z,
+    __v: 0
+  },
+  {
+    _id: new ObjectId("637edc401d4f07222c6d0ab8"),
+    name: 'Botas',
+    description: 'Botas de cuero con aplicativos ',
+    price: 150,
+    stock: 13,
+    thumbnail: 'public\\uploads\\products\\AWZU7262.JPG',
+    createdAt: 2022-11-24T02:51:44.088Z,
+    updatedAt: 2022-11-24T02:51:44.088Z,
+    __v: 0
+  }
+]
+[2022-12-11T14:20:04.018] [INFO] default - Connecting mongo DB ...
+[2022-12-11T14:20:04.026] [INFO] default - undefined
+[2022-12-11T14:20:04.031] [INFO] default - app is running
+[2022-12-11T14:20:05.334] [INFO] default - DB Connected
+[2022-12-11T14:20:18.239] [INFO] default - Connecting mongo DB ...
+[2022-12-11T14:20:18.246] [INFO] default - undefined
+[2022-12-11T14:20:18.255] [INFO] default - app is running
+[2022-12-11T14:20:19.608] [INFO] default - DB Connected
