@@ -23,7 +23,7 @@ class ProductMongoDAO extends ProductBaseDAO {
     try {
       if (_id) {
         const newOne = await this._collection.findOne({
-          _id: mongodb.ObjectId(_id),
+          _id: _id,
         });
 
         return [newOne];

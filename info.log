@@ -382,3 +382,44 @@
 [2022-12-11T14:20:18.246] [INFO] default - undefined
 [2022-12-11T14:20:18.255] [INFO] default - app is running
 [2022-12-11T14:20:19.608] [INFO] default - DB Connected
+[2022-12-12T22:58:20.495] [INFO] default - Connecting mongo DB ...
+[2022-12-12T22:58:20.506] [INFO] default - undefined
+[2022-12-12T22:58:20.513] [INFO] default - app is running
+[2022-12-12T22:58:22.418] [INFO] default - DB Connected
+[2022-12-12T22:58:22.719] [INFO] default - [
+  {
+    _id: new ObjectId("637edc0cf3a5651747c69d17"),
+    name: 'Botas',
+    description: 'Botas de cuero con aplicativos ',
+    price: 150,
+    stock: 13,
+    thumbnail: 'public\\uploads\\products\\AWZU7262.JPG',
+    createdAt: 2022-11-24T02:50:52.732Z,
+    updatedAt: 2022-11-24T02:50:52.732Z,
+    __v: 0
+  }
+]
+[2022-12-12T22:58:28.883] [INFO] default - [
+  {
+    _id: new ObjectId("637edc0cf3a5651747c69d17"),
+    name: 'Botas',
+    description: 'Botas de cuero con aplicativos ',
+    price: 150,
+    stock: 13,
+    thumbnail: 'public\\uploads\\products\\AWZU7262.JPG',
+    createdAt: 2022-11-24T02:50:52.732Z,
+    updatedAt: 2022-11-24T02:50:52.732Z,
+    __v: 0
+  },
+  {
+    _id: new ObjectId("637edc401d4f07222c6d0ab8"),
+    name: 'Botas',
+    description: 'Botas de cuero con aplicativos ',
+    price: 150,
+    stock: 13,
+    thumbnail: 'public\\uploads\\products\\AWZU7262.JPG',
+    createdAt: 2022-11-24T02:51:44.088Z,
+    updatedAt: 2022-11-24T02:51:44.088Z,
+    __v: 0
+  }
+]
